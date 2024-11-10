@@ -33,13 +33,13 @@ void printPatternB(){
 
 int main()
 {
-    //calling the function to print the pattern A
+    // calling the function to print the pattern A
     cout << "Pattern A" << endl << endl;
     printPatternA();
 
     cout << endl;
 
-    //calling the function to print the pattern B
+    // calling the function to print the pattern B
     cout << "Pattern B" << endl << endl;
     printPatternB();
 
